@@ -1,17 +1,3 @@
-/*******************************************************************
- *  Push Notificaiton Demo                                         *
- *  Using IFTTT and Telegram to send alerts to your phone          *
- *                                                                 *
- *  Telegram Library:                                              *
- *  https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot *
- *                                                                 *
- *  IFTTT Maker Library:                                           *
- *  https://github.com/witnessmenow/arduino-ifttt-maker            *
- *                                                                 *
- *  By Brian Lough                                                 *
- *******************************************************************/
-
-//Including the two libraries
 #include <UniversalTelegramBot.h>
 
 #include <ESP8266WiFi.h>
